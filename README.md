@@ -8,7 +8,7 @@ Languages i know:
 Through my course, I'm also learning about AI & ML.
 
 ## Hobbies
-I like DIY-ing stuff and gaming. Looking to build my own Force-feedback gaming steering wheel for racing games, and maybe a boombox?
+I like DIY-ing stuff and gaming.
 
 ## How to reach me
 Always available through insta and LinkedIn, just hmu :)
