@@ -3,7 +3,7 @@ Welcome to my readme file! I'm Daniel, a 2nd year BCA student trying to upskill 
 
 ## Skillset
 Languages i know:
-  C, Python, Java, SQL, HTML, CSS, JS, Arduino
+  C, Python, Java, SQL, HTML, CSS, JS, Arduino, React/Next.js.
 
 Through my course, I'm also learning about AI & ML.
 
